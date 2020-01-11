@@ -187,7 +187,7 @@ barplot(by_country$counts, name=by_country$Country,
         cex.names = 0.8, ylim= c(0,3500), las=2, main="Patients per Country")
 ```
 
-![](/Users/christos/Desktop/ePROJECTS/ESADA/ESADA_analysis_files/figure-markdown_github/unnamed-chunk-15-1.png)
+![](https://github.com/nikolaid/ESADA/blob/master/unnamed-chunk-15-1.png)
 
 *Create a subset of the data*
 
@@ -603,7 +603,7 @@ par(mar=c(11.1,6.1,4.1,2.1))
 barplot(CVD, names.arg=c("Systemic Hypertension", "Ischemic Heart Disease", "Left Ventricular Hypertrophy", "Valvular Heart Disease", "TIA or Stroke", "Atrial Fibrillation", "Pulmonary Hypertension", "Status Post Myocardial Infarction", "Cardiac Failure", "Other CVD", "Other"), cex.names = 0.8, ylim= c(0,11000), las=2, main="CVD")
 ```
 
-![](/Users/christos/Desktop/ePROJECTS/ESADA/ESADA_analysis_files/figure-markdown_github/unnamed-chunk-47-1.png)
+![](https://github.com/nikolaid/ESADA/blob/master/unnamed-chunk-47-1.png)
 
 #### Variable names to ICD10 codes
 
